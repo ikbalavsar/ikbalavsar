@@ -1,16 +1,32 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Gülsüm İkbal Avşar</h1>
+<h3 align="center">I am a fresh graduate computer engineer seeking opportunities within software and technology companies as well as emerging academic groups. With my skills, I aim to add value to the organizations I join and gain further experience through participation in challenging projects.</h3>
 
-<!--
-**ikbalavsar/ikbalavsar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ikbalavsar&label=Profile%20views&color=0e75b6&style=flat" alt="ikbalavsar" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ikbalavsar" alt="ikbalavsar" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **I am a software developer working as an Asp.Net / C# Backend Developer at. I began my professional career by actively participating in projects in this field and continuously striving to improve myself. My keen interest in staying updated with industry trends and learning new technologies has been instrumental in my journey. I am passionate about exploring innovations and consider it crucial to keep abreast of the latest technological advancements. This enthusiasm allows me to contribute creatively and effectively to projects, developing inventive solutions. I maintain a focus on both individual and team success, and I am committed to continually enhancing my professional knowledge and experience every day.**
+
+- 🌱 I’m currently learning **Currently, I am actively involved in two Asp.Net Core projects, both running on version 8. One of these projects revolves around Real Estate, where I've opted for Dapper ORM instead of Entity Framework. Dapper's simplicity and performance have proven beneficial for this particular application. The second project is a food ordering website, which stands out due to its real-time notification capabilities implemented using SignalR. Beyond the Asp.Net Core realm, I am also working on a new SpringBoot project—a basic banking application. In this venture, I develop APIs for customer creation, customer information verification, and transaction processing, adding a diverse dimension to my portfolio. The varied nature of these projects not only showcases my versatility but also highlights my commitment to employing the most suitable technologies for each unique scenario.**
+
+- 👯 I’m looking to collaborate on **I am ready to engage in projects involving C#, Asp.Net, and Asp.Net Core. Additionally, I am open to learning new technologies that align with my interests. Currently, I am proficient in developing SpringBoot projects at the beginner level. This readiness to explore diverse technologies reflects my commitment to staying versatile in the rapidly evolving world of software development. I am enthusiastic about taking on challenges and expanding my skill set to contribute effectively to a variety of projects.**
+
+- 🤝 I’m looking for help with **Advanced-level C# mentoring would be highly beneficial for my professional development. I find projects that aid in enhancing my skills in SpringBoot particularly satisfying. In my future plans, I aspire to begin learning the Go language, as it aligns with my ongoing commitment to expanding my programming language proficiency. The prospect of continuous learning and the pursuit of mastery in diverse technologies motivate and inspire me in my journey as a software developer.**
+
+- 💬 Ask me about **Feel free to reach out to me for discussions on intermediate-level topics related to Asp.Net, Asp.Net Core, C#, SQL queries, MSSQL, Object-Oriented Programming, and Design Patterns. I am open to sharing insights, providing assistance, and engaging in conversations to foster mutual learning and knowledge exchange in these areas. Your inquiries and discussions are always welcome!**
+
+- 📫 How to reach me **https://www.linkedin.com/in/ikbalavsar/**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ikbalavsar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ikbalavsar" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikbalavsar&show_icons=true&locale=en&layout=compact" alt="ikbalavsar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ikbalavsar&show_icons=true&locale=en" alt="ikbalavsar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ikbalavsar&" alt="ikbalavsar" /></p>

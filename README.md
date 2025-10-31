@@ -23,7 +23,7 @@
 ---
 
 ### 🔭 Professional Experience
-- **Full Stack Software Developer @ Doğuş Teknoloji (2024–Present)**  
+- **Full Stack Software Developer @ Doğuş Teknoloji (2024–2025)**  
   - Developed large-scale ASP.NET Core + PostgreSQL microservices for the Dexpert platform.  
   - Improved API efficiency by 25% through caching and asynchronous processing.  
   - Worked in agile CI/CD environments (Azure Pipelines, XUnit).  

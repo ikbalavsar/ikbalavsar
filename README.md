@@ -17,7 +17,6 @@
 
 ### 💡 About Me
 🎓 I’m a **Computer Engineer** with hands-on experience in **ASP.NET Core, Vue.js, and Next.js**, passionate about building scalable backend systems and intelligent, AI-driven web applications.  
-💼 Currently working at **Doğuş Teknoloji**, contributing to **Dexpert**, a large-scale vehicle inspection and infrastructure management platform.  
 🚀 My goal is to develop software that balances **high performance**, **clean architecture**, and **user-focused design**.  
 
 ---

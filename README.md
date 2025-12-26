@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gülsüm İkbal Avşar Turgut</h1>
+<h1 align="center">Hi 👋, I'm İkbal Avşar Turgut</h1>
 <h3 align="center">Full Stack Developer | ASP.NET Core | Vue.js | Next.js | AI-Powered Systems</h3>
 
 <p align="center">

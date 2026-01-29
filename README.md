@@ -22,6 +22,11 @@
 ---
 
 ### 🔭 Professional Experience
+- **Full Stack Software Developer @ Hardal 🌭 (2025–Present)**  
+  - Building real-time analytics and e-commerce attribution APIs using TypeScript, Elysia, and ClickHouse.  
+  - Designed modular service architecture with validation layers, query builders, and data executors.  
+  - Optimized query performance for high-volume analytics data processing.
+    
 - **Full Stack Software Developer @ Doğuş Teknoloji (2024–2025)**  
   - Developed large-scale ASP.NET Core + PostgreSQL microservices for the Dexpert platform.  
   - Improved API efficiency by 25% through caching and asynchronous processing.  

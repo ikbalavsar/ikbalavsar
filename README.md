@@ -38,16 +38,6 @@
 
 ---
 
-### 🧠 Featured Projects
-- **Document AI Tool (2024)**  
-  🏆 *Awarded at GenAithon (Doğuş Teknoloji)*  
-  → Developed an **AI-powered documentation assistant** using AWS Claude 3 Sonnet and Node.js APIs, automating code review summaries and reducing documentation time by 40%.  
-
-- **Real Estate Management Platform (2023)**  
-  → Built with **ASP.NET Core 8 + Dapper ORM**, enabling high-performance query execution and efficient property management workflows.  
-
----
-
 ### ⚙️ Tech Stack
 #### **Languages**
 C#, TypeScript, JavaScript, Python, Java, PHP  
@@ -63,13 +53,6 @@ Docker, Git, GitHub Actions, Azure DevOps, Postman, Swagger
 
 #### **Cloud & AI**
 AWS (Claude 3 Sonnet), RESTful API Design, AI-Assisted Code Analysis  
-
----
-
-### 🌱 Currently Exploring
-- Advanced **microservice orchestration** with Docker and Kubernetes  
-- Real-time communication with **SignalR**  
-- **Go language** for backend performance optimization  
 
 ---
 

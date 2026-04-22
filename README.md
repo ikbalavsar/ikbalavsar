@@ -20,6 +20,13 @@
 🚀 My goal is to develop software that balances **high performance**, **clean architecture**, and **user-focused design**.  
 
 ---
+## 🎓 Education
+
+🎓 **B.Sc. in Computer Science**  
+🏫 Istanbul Medipol University  
+📅 Graduated: 2023
+
+---
 
 ### 🔭 Professional Experience
 - **Full Stack Software Developer @ Hardal 🌭 (2025–Present)**  

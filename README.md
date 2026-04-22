@@ -38,22 +38,19 @@
 
 ---
 
-### ⚙️ Tech Stack
-#### **Languages**
-C#, TypeScript, JavaScript, Python, Java, PHP  
+## 🛠️ Tech Stack
 
-#### **Frameworks & Libraries**
-ASP.NET Core, Vue.js, Next.js, Node.js, Laravel, XUnit  
+### 💻 Core
+<img src="https://skillicons.dev/icons?i=cs,ts,js,python,dotnet,nodejs" />
 
-#### **Databases**
-PostgreSQL, MSSQL, MySQL, MongoDB, Dapper, Entity Framework  
+### ⚙️ Frontend & Backend
+<img src="https://skillicons.dev/icons?i=vue,nextjs,laravel" />
 
-#### **DevOps & Tools**
-Docker, Git, GitHub Actions, Azure DevOps, Postman, Swagger  
+### 🗄️ Data
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 
-#### **Cloud & AI**
-AWS (Claude 3 Sonnet), RESTful API Design, AI-Assisted Code Analysis  
-
+### 🚀 DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions,azure,aws" />
 ---
 
 ### 📫 Connect with Me
